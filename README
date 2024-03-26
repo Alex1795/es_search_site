@@ -1,0 +1,6 @@
+This project aims to create a simple search on Django that connects to Elasticsearch
+
+#TODO
+- Add ES connection
+- Add script to populate ES deployment
+- Add ES docker image so it's easy to get the ES cluster up
